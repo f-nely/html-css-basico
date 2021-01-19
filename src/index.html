@@ -3,19 +3,41 @@
 	<head>
 		<title>Curso de HTML e CSS</title>
 		<meta charset="utf-8">
+		<style>
+			table, th, td {
+				border: 1px solid #B0C4DE;
+				color: #5F9EA0;
+			}
+
+			h1 {
+				color: #3CB371;
+			}
+		</style>
 	</head>
 	<body>
-		<h1>Description List</h1>
+		<h1>Tabela</h1>
 
-		<dl>
-			<dt>Coffe</dt>
-			<dd>Black hot drink</dd>
-			<dt>Milk</dt>
-			<dd>White cold drink</dd>
-		</dl>
-
-		<!-- Essas listas são formadas pela tag <dl>, e nelas a gente indica o nome
-		 de um termo(<dt>) e depois listamos descrições sobre esse termo(<dd>)-->
+		<table>
+			<thead>
+			<tr>
+				<th>Firstname</th>
+				<th>Lastname</th>
+				<th>Age</th>
+			</tr>
+			</thead>
+			<tbody>
+			<tr>
+				<td>Jill</td>
+				<td>Smith</td>
+				<td>50</td>
+			</tr>
+			<tr>
+				<td>Eve</td>
+				<td>Jackson</td>
+				<td>94</td>
+			</tr>
+			</tbody>
+		</table>
 		  
 	</body>
 </html>
