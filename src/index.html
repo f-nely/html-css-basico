@@ -12,10 +12,8 @@
 	<body>
 		<h1>Code for fun!!</h1>
 
-		<!--enctype: Especifica quando os dados do formulário precisam ser 
-		codificados antes de serem enviados ao servidor.
-		Esse parâmetro só funciona para métodos do tipo POST-->
-		<form action="cadastro.php" method="post" enctype="multipart/form-data">
+		<!--novalidate: impede a validação dos campos antes da submissão:-->
+		<form action="cadastro.php" method="post" novalidate="">
 			<input type="text" name="email">
 		</form>
 	</body>
