@@ -12,8 +12,10 @@
 	<body>
 		<h1>Code for fun!!</h1>
 
-		<!--method: Especifica o método do HTTP que será utilizado para a submissão (get ou post)-->
-		<form action="cadastro.php" method="post">
+		<!--enctype: Especifica quando os dados do formulário precisam ser 
+		codificados antes de serem enviados ao servidor.
+		Esse parâmetro só funciona para métodos do tipo POST-->
+		<form action="cadastro.php" method="post" enctype="multipart/form-data">
 			<input type="text" name="email">
 		</form>
 	</body>
