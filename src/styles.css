@@ -1,8 +1,9 @@
 
 h1 {
-	color: #3CB371;
+	/*color: #3CB371;*/
 	text-decoration: underline;
 	text-transform: uppercase;
+	text-shadow: 2px 2px 5px #FF0000;
 }
 
 p {
@@ -11,12 +12,9 @@ p {
 }
 
 /*
-text-transform
-	A propriedade text-transform controla o tipo de "caixa" (maiúscula ou minúscula) do texto.
-	capitalize - Capitaliza a primeira letra de cada palavra. Por exemplo: "treinaweb cursos" transforma-se em "Treinaweb Cursos";
-	uppercase - Converte todas as letras para maiúscula. Por exemplo: "treinaweb cursos" transforma-se em "TREINAWEB CURSOS";
-	lowercase - Converte todas as letras para minúscula. Por exemplo: "TREINAWEB CURSOS" transforma-se em "treinaweb cursos";
-	none - Sem transformações - o texto é apresentado como foi informado no HTML.
+text-shadow
+	Essa propriedade adiciona sombras ao texto.
+	Passamos a posição horizontal, posição vertical, nível de ofuscação e cor da sombra.
 */
 
 
