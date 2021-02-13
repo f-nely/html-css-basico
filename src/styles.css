@@ -5,25 +5,13 @@ h1 {
 
 p {
 	font-family: "Fira Code", Tahoma, arial;
-	font-style: normal;
-	font-size: 1em;
-	font-stretch: condensed;
+	text-indent: 20px;
 }
 
 /*
-font-stretch
-	Propriedade utilizada para indicar o grau de condensação 
-	ou expansão dos caracteres de uma fonte.
-	valores possíveis para esta propriedade:
-	normal
-	ultra-condensed
-	extra-condensed
-	condensed
-	semi-condensed
-	ultra-expanded
-	extra-expanded
-	expanded
-	semi-expanded
+text-indent
+	A propriedade text-indent permite aplicar espaço à primeira linha de um parágrafo.
 */
+
 
 
