@@ -6,3 +6,11 @@ body {
 h1 {
 	color: #3CB371;
 }
+
+div{
+  /*border-width: 5px;
+  border-style: solid;
+  border-color: #00FF00;*/
+  background-color: rgba(255, 0, 0, 0.3);
+  /*background-color: hsla(0, 39%, 74%, 0.5);*/
+}
