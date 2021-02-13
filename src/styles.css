@@ -5,6 +5,7 @@ h1 {
 
 p {
 	font-family: "Fira Code", Tahoma, arial;
-	font-style: italic;
+	font-style: normal;
+	font-variant: small-caps;
 }
 
