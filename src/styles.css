@@ -5,12 +5,13 @@ h1 {
 
 p {
 	font-family: "Fira Code", Tahoma, arial;
-	text-indent: 20px;
+	text-align: center;
 }
 
 /*
-text-indent
-	A propriedade text-indent permite aplicar espaço à primeira linha de um parágrafo.
+text-align
+	Com a propriedade text-align, os textos podem ser alinhados à esquerda (left), à direita (right)
+	ou centralizados (center). Tem também o valor justify, que justifica o texto.
 */
 
 
