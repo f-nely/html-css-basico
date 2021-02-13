@@ -1,6 +1,7 @@
 
 h1 {
 	color: #3CB371;
+	text-decoration: underline;
 }
 
 p {
@@ -9,9 +10,10 @@ p {
 }
 
 /*
-text-align
-	Com a propriedade text-align, os textos podem ser alinhados à esquerda (left), à direita (right)
-	ou centralizados (center). Tem também o valor justify, que justifica o texto.
+text-decoration
+	A propriedade text-decoration possibilita aplicar "efeitos" ou "decorações" em textos. 
+	Você pode sublinhar textos, riscar o texto com uma linha, colocar uma linha sobre o 
+	texto e etc.
 */
 
 
