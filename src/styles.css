@@ -6,6 +6,35 @@ h1 {
 p {
 	font-family: "Fira Code", Tahoma, arial;
 	font-style: normal;
-	font-variant: small-caps;
+	font-weight: bolder;
 }
+
+/*
+font-weight
+	A propriedade font-weight é utilizada para definir o peso da fonte.
+	Valor
+
+Descrição da W3C
+Valor Descrição da W3C
+
+100 	Thin
+
+200 	Extra light
+
+300 	Light
+
+400 	Normal
+
+500 	Medium
+
+600 	Semi bold
+
+700 	Bold
+
+800 	Extra bold
+
+900 	Black
+
+bold 	Peso entre 600 e 900 dependendo da família da fonte selecionada.
+*/
 
