@@ -1,8 +1,11 @@
 
 h1 {
-	color: #00AADD;
-	text-decoration: underline;
-	text-transform: uppercase;
+	color: #FFFFFF;
+	background: #264968;
+	width: 400px;
+	margin: 10px;
+	padding: 15px;
+	border: 5px solid #CECECE;
 }
 
 p {
@@ -17,13 +20,7 @@ div {
 }
 
 /*
-White Space
-	Esta propriedade aceita os seguintes valores:
-	normal - Os espaços (e tabs) em branco são ignorados pelo browser;
-	pre - Os espaços (e tabs) em branco são preservados pelo browser e não há quebra de linha. Novas linhas são preservadas;
-	pre-wrap - Os espaços (e tabs) em branco são preservados pelo browser e há quebra de linha. Novas linhas são preservadas;
-	nowrap - O texto é apresentado em uma única linha na tela. Não há quebra de linha até ser encontrada uma tag <br/>. Novas linhas não são preservadas, não há quebra de linha;
-	pre-line – Sequências de quebra de linha são preservadas.
+Box Model
 */
 
 
