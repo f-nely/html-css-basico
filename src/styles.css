@@ -11,13 +11,21 @@ p {
 }
 
 div {
-	box-shadow: 10px 10px 5px #888888;
+	background: #EEE;
+	width: 50px;
+	height: 50px;
+	border: 1px dotted black;
+	overflow: hidden;
 }
 
 /*
-Box Shadow
-	A propriedade box-shadow serve para aplicar sombras ao elemento.
-	Passamos a posição horizontal, vertical, nível de ofuscamento e cor da sombra.
+Overflow
+	A propriedade overflow define quando o conteúdo de um elemento deve ser exibido, escondido ou 
+	gerar uma barra de rolagem quando este conteúdo for maior do que o elemento que o contém.
+	overflow: hidden;
+	overflow: visible;
+	overflow: scroll;
+	overflow: auto;
 */
 
 
