@@ -11,17 +11,13 @@ p {
 }
 
 div {
-	width: 100px;
-	max-width: 120px;
+	box-shadow: 10px 10px 5px #888888;
 }
 
 /*
-As propriedades disponíveis são:
-
-	max-width
-	max-height
-	min-width
-	min-height
+Box Shadow
+	A propriedade box-shadow serve para aplicar sombras ao elemento.
+	Passamos a posição horizontal, vertical, nível de ofuscamento e cor da sombra.
 */
 
 
