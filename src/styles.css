@@ -1,20 +1,19 @@
 
 h1 {
-	/*color: #3CB371;*/
+	color: #00AADD;
 	text-decoration: underline;
 	text-transform: uppercase;
-	text-shadow: 2px 2px 5px #FF0000;
 }
 
 p {
 	font-family: "Fira Code", Tahoma, arial;
 	text-align: justify;
+	letter-spacing: 2px;
 }
 
 /*
-text-shadow
-	Essa propriedade adiciona sombras ao texto.
-	Passamos a posição horizontal, posição vertical, nível de ofuscação e cor da sombra.
+Letter Spacing
+	A função do letter-spacing é aplicar um espaço entre as letras do texto do elemento.
 */
 
 
