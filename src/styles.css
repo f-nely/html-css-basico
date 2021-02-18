@@ -8,12 +8,12 @@ h1 {
 p {
 	font-family: "Fira Code", Tahoma, arial;
 	text-align: justify;
-	word-spacing: 10px;
+	line-height: 200%;
 }
 
 /*
-Word Spacing
-	Define um espaçamento entre as palavras do texto.
+Line Height
+	Aplica a altura da linha em porcentagem.
 */
 
 
