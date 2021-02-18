@@ -13,8 +13,9 @@ p {
 div {
 	border: 2px solid black;
 	display: inline-block;
-	position: fixed;
-	left: 20px;
+	position: relative;
+	top: 20px;
+	left: 10px;
 }
 
 
