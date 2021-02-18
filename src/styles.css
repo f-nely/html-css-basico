@@ -8,12 +8,12 @@ h1 {
 p {
 	font-family: "Fira Code", Tahoma, arial;
 	text-align: justify;
-	letter-spacing: 2px;
+	word-spacing: 10px;
 }
 
 /*
-Letter Spacing
-	A função do letter-spacing é aplicar um espaço entre as letras do texto do elemento.
+Word Spacing
+	Define um espaçamento entre as palavras do texto.
 */
 
 
