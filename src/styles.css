@@ -12,14 +12,17 @@ p {
 
 div {
 	width: 100px;
-	height: 100px;
-	border: 2px solid #CECECE; 
-	border-radius: 30px;
+	max-width: 120px;
 }
 
 /*
-Border Radius
-Serve para arredondarmos as bordas do elemento.
+As propriedades disponíveis são:
+
+	max-width
+	max-height
+	min-width
+	min-height
 */
+
 
 
