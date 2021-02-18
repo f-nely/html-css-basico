@@ -5,31 +5,16 @@ h1 {
 	text-transform: uppercase;
 }
 
-div, p {
-	border: 2px solid black;
-	display: inline-block;
+img {
+	float: left;
 }
 
 div {
-	position: relative;
-	width: 150px;
-	height: 200px;
-}
-
-p {
+	clear: both;
 	margin: 0;
-	position: absolute;
-	bottom: 10px;
-	top: 5px;
-	left: 5px;
-	background: #BBFFEE;
 }
 
-span {
-	position: relative;
-	background: #FF0000;
-	z-index: 3;
-}
+
 
 
 
