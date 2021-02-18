@@ -19,7 +19,16 @@ div {
 p {
 	margin: 0;
 	position: absolute;
-	bottom: 0;
+	bottom: 10px;
+	top: 5px;
+	left: 5px;
+	background: #BBFFEE;
+}
+
+span {
+	position: relative;
+	background: #FF0000;
+	z-index: 3;
 }
 
 
