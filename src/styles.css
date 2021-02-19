@@ -5,9 +5,9 @@ h1 {
 	text-transform: uppercase;
 }
 
-ul{
-	list-style-image: url(https://d2v0x26thbzlwf.cloudfront.net/prod/5/arquivos/seta.gif);
-  }
+ul {
+	list-style-position: inside;
+}
 
 
 
