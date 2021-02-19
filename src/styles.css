@@ -5,8 +5,8 @@ h1 {
 	text-transform: uppercase;
 }
 
-ul {
-	list-style-type: circle;
+ol {
+	list-style-type: upper-roman;
 }
 
 
