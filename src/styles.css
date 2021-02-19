@@ -5,14 +5,9 @@ h1 {
 	text-transform: uppercase;
 }
 
-img {
-	float: left;
-}
-
-div {
-	clear: both;
-	margin: 0;
-}
+ul{
+	list-style-image: url(https://d2v0x26thbzlwf.cloudfront.net/prod/5/arquivos/seta.gif);
+  }
 
 
 
