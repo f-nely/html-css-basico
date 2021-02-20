@@ -5,8 +5,8 @@ h1 {
 	text-transform: uppercase;
 }
 
-ol {
-	list-style-type: upper-roman;
+li {
+	list-style-image: url('rocket.png');
 }
 
 
