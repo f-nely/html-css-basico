@@ -5,8 +5,8 @@ h1 {
 	text-transform: uppercase;
 }
 
-li {
-	list-style-image: url('rocket.png');
+table, th, td, tr {
+	border: 1px solid black;
 }
 
 
