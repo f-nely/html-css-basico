@@ -8,6 +8,35 @@ html, body {
     color: white;
 }
 
+.section-background {
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 500px;
+}
+
+.section-container {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: rgba(0, 0, 0, 0.65);
+}
+
+.section-title {
+    text-align: center;
+    font-size: 30px;
+}
+
+.section-text {
+    padding: 10px;
+    margin: 0;
+    font-size: 18px;
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
 /*  HEADER
 *********************/
 .main-header {
@@ -55,9 +84,20 @@ html, body {
 }
 /*  O LUGAR
 *********************/
+.lugar {
+    background-image: url('/images/bar_interior.jpg');
+}
 
 /* NOSSOS DRINKS
 *********************/
+.drinks {
+    background-image: url('/images/drinks_background.jpg');
+}
+
+.drink-image {
+    max-width: 30%;
+    margin-top: -30px;
+}
 
 /* FOOTER 
 *********************/
